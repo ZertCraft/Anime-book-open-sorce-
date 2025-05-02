@@ -1,0 +1,13 @@
+{
+  "name": "anime-book-api",
+  "version": "1.0.0",
+  "description": "A simple app to fetch manga data using Jikan API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  }
+}
